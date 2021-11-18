@@ -4,8 +4,8 @@ app.r generates R shiny interface to upload and view analysis results to tickers
 
 Usage
 * Pre req is install of R, R Studio and shiny.
-* Edit buys.csv to capture your stock purchases and investment contributions
 * Open app.r in R Studio and run the application (app.r)
-* Edit buys.csv to meet your needs
+* Edit buys.csv to capture your stock purchases and investment contributions
 * Upload the edited buys.csv to the application
 * Review analysis results
+* __Marvel__ at your stock picking prowess
