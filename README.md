@@ -6,5 +6,6 @@ Usage
 * Pre req is install of R, R Studio and shiny.
 * Edit buys.csv to capture your stock purchases and investment contributions
 * Open app.r in R Studio and run the application (app.r)
-* Edit and upload buys.csv to meet your needs
+* Edit buys.csv to meet your needs
+* Upload the edited buys.csv to the application
 * Review analysis results
