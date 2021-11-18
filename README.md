@@ -4,13 +4,13 @@ app.r generates R shiny interface to upload and view analysis results to tickers
 
 buy.csv is the file that contains the ticker information for analysis.  Although a simple file in format, the following characteristics of the data columns in the file must be met for the application to function as expected.
 
-  - __Description__:  Company Name 
-  - __Action__:  one of "Buy", "Sell", or "Deposit" (not a dividend) [text]
-  - __Symbol__: Ticker [yahoo format of a stock/ticker symbol]
-  - __Date__: Date of Buy, Sell, Cash Deposit [mm/dd/yyyy]
-  - __Quantity__: Number of shares purchased [numeric]
-  - __Currency__: Currency of purchase one of "CAD" or "USD" [text]
-  - __BuyPrice__: Share purchase price [numeric]
+  - __Description__: text, Company Name 
+  - __Action__:  text, One of "Buy", "Sell", or "Deposit" (not a dividend)
+  - __Symbol__: text, Yahoo symbol format of stock/ticker
+  - __Date__: text, mm/dd/yyyy, Transaction date of Buy, Sell, or Deposit
+  - __Quantity__: numeric, Number of shares/units purchased
+  - __Currency__: text, Currency of purchase one of "CAD" or "USD"
+  - __BuyPrice__: numeric, Share purchase price
 
 ---
 Usage
