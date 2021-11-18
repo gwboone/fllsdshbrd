@@ -8,6 +8,5 @@ Usage
 * Open app.r in R Studio and run the application (app.r)
 * Edit buys.csv to capture your stock purchases and investment contributions
 * Upload the edited buys.csv to the application
-* Review analysis results
-* __Marvel__ at your stock picking prowess
+* Review analysis results and __marvel__ at your stock picking prowess
 ---
