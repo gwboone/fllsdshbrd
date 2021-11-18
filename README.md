@@ -12,6 +12,13 @@ buy.csv is the file that contains the ticker information for analysis.  Although
   - __Currency__: text, Currency of purchase one of "CAD" or "USD"
   - __BuyPrice__: numeric, Share purchase price
 
+| Description  | Action  | Symbol | Date      | Quantity | Currency | BuyPrice |
+|--------------|---------|--------|-----------|----------|----------|----------|
+| Magna Int.   | BUY     | MG.TO  | 5/14/2014 | 25       | CAD      | 45.71    |
+| Atlas        | BUY     | ATCO   | 3/28/2018 | 75       | USD      | 5.43     |
+| Contribution | DEPOSIT |        | 5/01/2014 |          | CAD      | 1700.00  |
+
+
 ---
 Usage
 * Pre req is install of R, R Studio and shiny.
